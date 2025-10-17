@@ -18,4 +18,6 @@
 
 [![An image of @bdev712boop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdev712boop)](https://holopin.io/@bdev712boop)
 
-<img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zy8712&theme=tokyonight" alt="mystreak"/>
+<img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bdev712-boop&theme=tokyonight" alt="mystreak"/>
+
+<img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdev712-boop&theme=tokyonight" />
