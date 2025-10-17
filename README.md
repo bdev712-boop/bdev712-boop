@@ -14,3 +14,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+
+
+[![An image of @bdev712boop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdev712boop)](https://holopin.io/@bdev712boop)
